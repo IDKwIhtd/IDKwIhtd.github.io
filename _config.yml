@@ -5,7 +5,7 @@ highlighter: rouge
 # Setup
 title: "수 빈"
 tagline: "if(life){code();}"
-description: "life: Compiling… Please Wait"
+description: 'life: Compiling… Please Wait'
 url: "https://IDKwIhtd.github.io"
 baseurl: ""
 
@@ -19,5 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - "jekyll-sitemap"
 
 sidebar_home_link: true
