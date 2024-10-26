@@ -4,3 +4,20 @@
 ---
 
 @import "hydeout";
+
+
+// 사용자 정의 스타일
+$background-color: #f5f5f5;   // 배경 색상 덮어쓰기
+$text-color: #333333;         // 텍스트 색상 덮어쓰기
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+a {
+  color: #007acc;
+  &:hover {
+    color: #005a99;
+  }
+}
