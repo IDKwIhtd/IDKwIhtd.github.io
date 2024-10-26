@@ -1,19 +1,19 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            수 빈
-tagline:          "if(life){code();}"
-description:      "life: Compiling… Please Wait"
-url:              "https://IDKwIhtd.github.io"
-baseurl:          ""
+title: "수 빈"
+tagline: "if(life){code();}"
+description: "life: Compiling… Please Wait"
+url: "https://IDKwIhtd.github.io"
+baseurl: ""
 
 author:            
-  name:           "CHOI SUBIN"
-  url:            "http://zeroto.dothome.co.kr"
+  name: "CHOI SUBIN"
+  url: "http://zeroto.dothome.co.kr"
 
-paginate:         1
+paginate: 1
 
 plugins:
   - jekyll-feed
@@ -21,6 +21,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-
-# Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link: true
