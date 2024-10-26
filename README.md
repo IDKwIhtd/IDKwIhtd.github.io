@@ -165,4 +165,4 @@ You can see the full set of partials you can replace in the
   your property ID in your config file.
 
 There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!
+theme. 
